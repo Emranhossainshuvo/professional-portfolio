@@ -11,18 +11,16 @@ const Features = () => {
       id="features"
       className="w-full py-20 border-b-[1px] border-b-black"
     >
-      <Title title="Features" des="What I Do" />
+      <Title title="Features" des="What I can do" />
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-20">
         <Card
-          title="Business Stratagy"
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque soluta
-          hic consequuntur eum repellendus ad."
+          title="Frontend"
+          des="As a frontend developer, I love creating dynaic and functional web applications also I love to add animation to my work."
          
         />
         <Card
-          title="App Development"
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque soluta
-          hic consequuntur eum repellendus ad."
+          title="Backend"
+          des="I love "
           icon={<AiFillAppstore />}
         />
         <Card
