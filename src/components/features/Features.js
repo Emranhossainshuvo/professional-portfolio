@@ -20,13 +20,12 @@ const Features = () => {
         />
         <Card
           title="Backend"
-          des="I love "
+          des="I love working with backend because it's more techiee than the frontend although I'm not much good at it but I love working with it"
           icon={<AiFillAppstore />}
         />
         <Card
-          title="SEO Optimisation"
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque soluta
-          hic consequuntur eum repellendus ad."
+          title="MERN stack"
+          des=""
           icon={<SiProgress />}
         />
         <Card
