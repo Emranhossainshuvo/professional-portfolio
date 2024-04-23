@@ -1,6 +1,6 @@
 import React from 'react'
-import { FaGlobe, FaAddressCard, FaServer, FaUserLock } from "react-icons/fa";
-import { SiProgress, SiAntdesign } from "react-icons/si";
+import { FaGlobe, FaAddressCard, FaBug, FaCloudUploadAlt, FaServer, FaUserLock } from "react-icons/fa";
+import { SiProgress} from "react-icons/si";
 import Title from '../layouts/Title';
 import Card from './Card';
 
@@ -29,19 +29,17 @@ const Features = () => {
         />
         <Card
           title="Authentication"
-          des=""
+          des="In today's world authentication is a must for an online platform. I use firebse for authenticate use's in the frontent and JWT in the backend"
           icon={<FaUserLock />}
         />
         <Card
-          title="UX Design"
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque soluta
-          hic consequuntur eum repellendus ad."
-          icon={<SiAntdesign />}
+          title="Debug"
+          des="After having and solving a lot's of bugs now I became familiar with debugging and somewhat I love finding and fixing bugs. and yeah here are alway some annoying bugs that I can't solve, but overall I like solving bugs."
+          icon={<FaBug />}
         />
         <Card
           title="Hosting Websites"
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque soluta
-          hic consequuntur eum repellendus ad."
+          des="I'm able to host web application various platforms like, vercel, firebase, netlify etc. yet, I'm learing to host application on more platforms."
           icon={<FaGlobe />}
         />
       </div>
