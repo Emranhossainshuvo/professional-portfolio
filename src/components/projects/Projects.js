@@ -22,10 +22,10 @@ const Projects = () => {
           src={"https://i.ibb.co/DrKWqzv/2150671588.jpg"}
         />
         <ProjectsCard
-          title="E-commerce Website"
+          title="Car repire shop"
           des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
               Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
-          src={projectTwo}
+          src={"https://i.ibb.co/4RFVtZR/2149580613.jpg"}
         />
         <ProjectsCard
           title="Chatting App"
@@ -40,10 +40,10 @@ const Projects = () => {
           src={projectThree}
         />
         <ProjectsCard
-          title="E-commerce Website"
+          title="Website for frelancer"
           des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
               Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
-          src={projectOne}
+          src={"https://i.ibb.co/tCKkPkt/2147956506.jpg"}
         />
         <ProjectsCard
           title="Chatting App"
